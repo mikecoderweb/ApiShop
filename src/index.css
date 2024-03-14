@@ -1,13 +1,150 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.App {
+  padding: 0px 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .container{
+  max-width: 1444px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 50px;
+  max-width: 1440px;
+  margin: 0 auto;
+  height: 100px;
+  align-items: center;
+}
+
+.nav {
+  font-size: 45px;
+  cursor: pointer;
+}
+
+.nav-item {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-item > a {
+  text-decoration: none;
+  color: rgb(1, 2, 2);
+}
+
+.active,
+.nav-item > a:hover {
+  background-color: #46a358;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
+
+.nav-btn > button {
+  width: 120px;
+  height: 40px;
+  color: white;
+  border-radius: 6px;
+  background: #46a358;
+  margin-top: -10px;
+  outline: none;
+  border: white;
+}
+
+.active,
+.nav-btn > button:hover {
+  background-color:#017919;
+  color: white;
+  cursor: pointer;
+}
+
+.nav-btn > button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+.nav-btn {
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr;
+  cursor: pointer;
+}
+
+.nav2 {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  padding: 90px;
+}
+
+h1 {
+  font-family: Cera Pro;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 70px;
+  margin-top: -10px;
+}
+
+.nav2p{
+  width: 590px;
+  height: 45px;
+  margin-top: -30px;
+}
+
+
+.navbtn1 > button {
+  width: 120px;
+  height: 40px;
+  color: white;
+  border-radius: 6px;
+  background: #46a358;
+  margin-top: 10px;
+  outline: none;
+  border: white;
+}
+
+.active,
+.navbtn1 > button:hover {
+  background-color: #017919;
+  color: white;
+  cursor: pointer;
+}
+
+.gull{
+  margin-left: 100px;
+}
+
+.imgg{
+  width: 40px;
+  height: 8px;
+  margin-right: 200px;
+}
+ */
